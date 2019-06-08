@@ -121,3 +121,6 @@ builtdocs/
 
 # pytest
 *.pytest_cache/*
+
+# cache data
+*_cache/
